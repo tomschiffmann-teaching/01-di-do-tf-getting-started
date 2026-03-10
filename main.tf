@@ -20,7 +20,7 @@ provider "aws" {
 
 resource "aws_instance" "demo" {
   ami           = "ami-0b6c6ebed2801a5cb" # ubuntu
-  instance_type = "t2.micro"
+  instance_type = "t2.small"
 
   tags = {
     Name = "test-server-iac"
