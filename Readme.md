@@ -26,6 +26,9 @@
 ## Git Dictionary
 
 - `Repository`: Projektmappe (z.B. **01_terraform_getting_started**)
-- `Commit`: Zusammenfassung der veränderten Dateien unter einem Titel
-- `Status`: Welche Dateien haben sich verändert
-- `Add`
+
+### Commands
+
+- `commit`: Zusammenfassung der veränderten Dateien unter einem Titel
+- `status`: Welche Dateien haben sich verändert
+- `add`: Fügt Änderungen einem commit hinzu
