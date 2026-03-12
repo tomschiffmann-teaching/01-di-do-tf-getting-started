@@ -1,5 +1,5 @@
 # Terraform Getting Started
-
+2
 ## Umgebungsvariablen setzen
 
 - Die Umgebuzngsvariablen sind Teil der Session im Terminal/Powershell
