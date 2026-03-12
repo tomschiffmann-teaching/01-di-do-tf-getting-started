@@ -67,3 +67,7 @@
 12. Eine Änderung auf dem neuen Branch machen (neue Datei)
 13. Diese Änderung commiten und Branch publishen/pushen
 14. Github.com repository verfolgen und die Änderungen auf den unterschiedlichen Branches betrachten
+
+## Andys Git Link
+
+- ![https://learngitbranching.js.org/?locale=de_DE](https://learngitbranching.js.org/?locale=de_DE)
