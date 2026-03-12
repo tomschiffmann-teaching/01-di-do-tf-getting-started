@@ -26,9 +26,20 @@
 ## Git Dictionary
 
 - `Repository`: Projektmappe (z.B. **01_terraform_getting_started**)
+- `.gitignore` Dateu im root Verzeichnis des repositories beschreibt alle Dateien/Verzeichnisse die ignoriert werden sollen
 
 ### Commands
+
+`init`: Initalisiert das Repository lokal in dem aktuellen Verzeichnis
 
 - `commit`: Zusammenfassung der veränderten Dateien unter einem Titel
 - `status`: Welche Dateien haben sich verändert
 - `add`: Fügt Änderungen einem commit hinzu
+
+## Aufgabe:
+
+1. Ihr erstellt einen leeren Ordner bei euch auf dem Computer (nicht in OneDrive)
+2. Öffne den leeren Ordner in VSCode
+3. Terminal öffnen und `git init`
+4. Comitten, reverten , adden etc.
+   Tipp: Am besten mit Readme.md und der Nutzung von [Markdown](https://www.markdownguide.org/cheat-sheet/)
