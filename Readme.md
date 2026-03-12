@@ -36,6 +36,7 @@
 - `status`: Welche Dateien haben sich verändert
 - `add`: Fügt Änderungen einem commit hinzu
 - `clone`: Lädt sich ein repository herunter
+- `push`: Lädt alle commits hoch
 
 ## Aufgabe:
 
