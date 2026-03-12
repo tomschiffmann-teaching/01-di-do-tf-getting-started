@@ -38,10 +38,23 @@
 - `clone`: Lädt sich ein repository herunter
 - `push`: Lädt alle commits hoch
 
-## Aufgabe:
+## Aufgabe 10.3.26:
 
 1. Ihr erstellt einen leeren Ordner bei euch auf dem Computer (nicht in OneDrive)
 2. Öffne den leeren Ordner in VSCode
 3. Terminal öffnen und `git init`
 4. Comitten, reverten , adden etc.
    Tipp: Am besten mit Readme.md und der Nutzung von [Markdown](https://www.markdownguide.org/cheat-sheet/)
+
+## Aufgabe 12.03.26:
+
+1. Repository über github.com erstellen
+2. Leeren ordner unter C:// (nicht OneDrive)
+3. Inititalisierung des repositories
+4. Die Commands von eurem Github.com Repository verfolgen (Die da stehen wenn das Repo leer ist) --> Am besten per SSH (nicht HTTPS)
+5. Readme.md erstellen
+6. Ein paar commits machen
+7. über die WSL oder PS in einen neuen leeren ordner navigieren
+8. Das repository in diesen Ordner clonen
+9. Dann eine Änderung in VSCode machen (einen punkt in die Readme.md hinzufügen)
+10. Aus der PS oder WSL git pull ausführen (achtet darauf, dass ihr in dem repository seid und nicht noch in dem übergeordneten Ordner)
