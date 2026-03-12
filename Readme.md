@@ -1,5 +1,7 @@
 # Terraform Getting Started
+
 3
+
 ## Umgebungsvariablen setzen
 
 - Die Umgebuzngsvariablen sind Teil der Session im Terminal/Powershell
@@ -58,3 +60,10 @@
 8. Das repository in diesen Ordner clonen
 9. Dann eine Änderung in VSCode machen (einen punkt in die Readme.md hinzufügen)
 10. Aus der PS oder WSL git pull ausführen (achtet darauf, dass ihr in dem repository seid und nicht noch in dem übergeordneten Ordner)
+
+## Aufgabe 12.03.26 - 2:
+
+11. Erstelle über die VS-Code UI (`git checkout -b <branch-name>`)
+12. Eine Änderung auf dem neuen Branch machen (neue Datei)
+13. Diese Änderung commiten und Branch publishen/pushen
+14. Github.com repository verfolgen und die Änderungen auf den unterschiedlichen Branches betrachten
