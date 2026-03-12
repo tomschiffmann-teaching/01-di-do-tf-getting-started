@@ -35,6 +35,7 @@
 - `commit`: Zusammenfassung der veränderten Dateien unter einem Titel
 - `status`: Welche Dateien haben sich verändert
 - `add`: Fügt Änderungen einem commit hinzu
+- `clone`: Lädt sich ein repository herunter
 
 ## Aufgabe:
 
