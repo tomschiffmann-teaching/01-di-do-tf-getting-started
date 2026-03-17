@@ -70,7 +70,7 @@
 
 ## Andys Git Link
 
-- ![https://learngitbranching.js.org/?locale=de_DE](https://learngitbranching.js.org/?locale=de_DE)
+- [https://learngitbranching.js.org/?locale=de_DE](https://learngitbranching.js.org/?locale=de_DE)
 
 ## Aufgabe 17.03.26 Merge Konflikte beheben (einfach):
 
