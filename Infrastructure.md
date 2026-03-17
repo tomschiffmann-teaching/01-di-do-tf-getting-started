@@ -1,3 +1,3 @@
-# Infrastructure
+# Infrastruktur
 
 Hello from IT!
